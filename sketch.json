@@ -1,0 +1,38 @@
+{
+  "cpu": {
+    "fqbn": "arduino:samd:mkrwifi1010",
+    "name": "",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "CERT_AUTHORITY",
+      "value": ""
+    },
+    {
+      "name": "CERT_NOT_AFTER",
+      "value": ""
+    },
+    {
+      "name": "CERT_NOT_BEFORE",
+      "value": ""
+    },
+    {
+      "name": "CERT_SERIAL",
+      "value": ""
+    },
+    {
+      "name": "CERT_SIGNATURE_RS",
+      "value": ""
+    },
+    {
+      "name": "SECRET_OPTIONAL_PASS",
+      "value": ""
+    },
+    {
+      "name": "SECRET_SSID",
+      "value": ""
+    }
+  ],
+  "included_libs": []
+}

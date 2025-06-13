@@ -1,0 +1,7 @@
+#define CERT_AUTHORITY ""
+#define CERT_NOT_AFTER ""
+#define CERT_NOT_BEFORE ""
+#define CERT_SERIAL ""
+#define CERT_SIGNATURE_RS ""
+#define SECRET_PASS ""
+#define SECRET_SSID ""
